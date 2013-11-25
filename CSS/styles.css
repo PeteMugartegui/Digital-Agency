@@ -56,11 +56,16 @@ z-index: -999;
   margin: 100px auto;
   color: #333;
 }
+#conte2{
+	width: 100%;
+	height: 300px;
+	background-color: rgba(0,0,0,0.8);
+}
 /***********************************Clases*********************/
 .barra{
 	width: 100%;
-	height: 50px;
-	background-color: rgba(0,0,0,.4);
+	height: 70px;
+	background-color: rgba(0,0,0,.6);
 }
 .contenedor{
 	min-height: 1500px;
