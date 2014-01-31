@@ -61,6 +61,12 @@ z-index: -999;
 	height: 300px;
 	background-color: rgba(0,0,0,0.8);
 }
+#titulo-contacto{
+	color: #ffF;
+	font-size: 2.3em;
+	font-weight: 300;
+	text-align: center;
+}
 /***********************************Clases*********************/
 .barra{
 	width: 100%;
@@ -91,4 +97,19 @@ z-index: -999;
 	display: inline-block;
 	margin-left: 45%;
 	margin-top: 100px;
+}
+.form{
+	width: 70%;
+	height: 20px;
+	text-align: center;
+}
+input[type=text]
+{
+    background-color: #BFBDBD;
+    border:solid 1px #BFBDBD;
+    color: #979797;
+    height: 28px;
+    margin-left: 150px;
+    padding-left:10px;
+    box-shadow: 2px 2px 0 #828181 inset;
 }
